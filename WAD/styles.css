@@ -1,0 +1,26 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #sidebar {
+    background-color: #333;
+    color: #fff;
+    height: 100%;
+  }
+  
+  #sidebar .list-group-item {
+    background-color: rgb(190, 224, 229);
+    border: solid whitesmoke;
+    border-bottom: 1px solid #444;
+    color: #500202;
+  }
+  
+  #content {
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
